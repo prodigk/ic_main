@@ -12,7 +12,6 @@
             <li>
               <router-link to="/home" class="link-tab" data-position="59" data-width="51" data-page="/home">Home</router-link>
             </li>
-            
             <li>
               <router-link to="/update" class="link-tab" data-position="213" data-width="59" data-page="/update">update</router-link>
             </li>
