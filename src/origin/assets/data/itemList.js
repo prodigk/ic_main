@@ -35,8 +35,8 @@ const itemList = {
         id: 40,
         type: 10,
         title: "Sticky Header",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_40.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_40.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f40.gif",
         desc: "모듈을 활용하여 스크롤 중에 탭영역이 상단에 고정",
         used: "활용영역 : 메인 페이지",
@@ -44,14 +44,14 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#StickyHeader", "#ScrollComponent"],
         source:
-          '<iframe height="1050" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/zbbEXL/?height=627&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/ZZYdQw/?height=265&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 39,
         type: 2,
         title: "페이지 스크롤에 따른 상단변경",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_39.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/framer_03.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f39.gif",
         desc:
           "페이지 스크롤시 배경 이미지의 사이즈 애니메이션을 통한 연결성있는 애니메이션을 구현하여 사용자에게 명확한 피드백을 제공한다",
@@ -60,14 +60,14 @@ const itemList = {
         date: "2018-11-26",
         tag: ["#ScrollComponent", "#areaToggle"],
         source:
-          '<iframe height="1050" style="width: 100%;" scrolling="no" title="yEKvxZ" src="//codepen.io/diget/embed/yEKvxZ/?height=265&theme-id=0&default-tab=css" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="600" style="width: 100%;" scrolling="no" title="yEKvxZ" src="//codepen.io/ugen/embed/mgyZgx/?height=265&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 38,
         type: 10,
         title: "App Store Style - Card View Scroll",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_38.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_38.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f38.gif",
         desc: "카드 탭시 하위 댑스가 현재 위치에서 확장 후에 스크롤 기능 추가",
         used: "활용영역 : 컨텐츠 피드 리스트 / 메인 페이지",
@@ -75,14 +75,14 @@ const itemList = {
         date: "2018-11-26",
         tag: ["#ScrollComponent"],
         source:
-          '<iframe height="1050" style="width: 100%;" scrolling="no" title="yEKvxZ" src="//codepen.io/diget/embed/yEKvxZ/?height=265&theme-id=0&default-tab=css" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="yes" title="yEKvxZ" src="//codepen.io/ugen/embed/dLPxbV/?height=265&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 37,
         type: 8,
         title: "Card View Transition2",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_37.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_37.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f37.gif",
         desc: "개별카드 선택후 페이지로 확장되고 스크롤 가능",
         used: "활용영역 : 컨텐츠 피드 리스트 / 메인 페이지 / 상세페이지",
@@ -90,14 +90,14 @@ const itemList = {
         date: "2018-11-26",
         tag: ["#ScrollComponent"],
         source:
-          '<iframe height="1050" style="width: 100%;" scrolling="no" title="yEKvxZ" src="//codepen.io/diget/embed/yEKvxZ/?height=265&theme-id=0&default-tab=css" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="yEKvxZ" src="//codepen.io/ugen/embed/YMPmXe/?height=265&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 36,
         type: 8,
         title: "Card View Transition1",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_38a.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/framer_02.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f36.gif",
         desc: "여러개의 카드리스트중 개별 카드선택후 페이지로 확장",
         used: "활용영역 : 컨텐츠 피드 리스트 / 메인 페이지",
@@ -111,8 +111,8 @@ const itemList = {
         id: 35,
         type: 2,
         title: "Random Background Image",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_36.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_36.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f35.gif",
         desc:
           "하단 끝까지 스크롤시 배경 이미지를 다르게 노출",
@@ -127,8 +127,8 @@ const itemList = {
         id: 34,
         type: 7,
         title: "Notification UI",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_35.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_35.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f34.gif",
         desc:
           "5초 간격으로 하단 카드 노티 애니메이션 / 스크롤하여 카드 내용 확인후에는 애니메이션 정지",
@@ -143,8 +143,8 @@ const itemList = {
         id: 33,
         type: 4,
         title: "Page Swipe",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_34.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_34.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f33.gif",
         desc:
           "페이지 스와이핑 인터랙션과 페이지별 스크롤 적용",
@@ -159,8 +159,8 @@ const itemList = {
         id: 32,
         type: 7,
         title: "Player Album Swipe",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_33.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_33.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f32.gif",
         desc:
           "페이지 변환시 백그라운드 이미지 트렌지션 / 앨범 이미지 탭시 페이징",
@@ -175,8 +175,8 @@ const itemList = {
         id: 31,
         type: 7,
         title: "Background Color Transition",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_32.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_32.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f31.gif",
         desc:
           "페이지 변환시 백그라운드 컬러 트렌지션",
@@ -191,13 +191,13 @@ const itemList = {
         id: 30,
         type: 8,
         title: "Scrollable Drawer",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_30.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/framer_15.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f30.gif",
         desc:
           "더보기 버튼 선택 후 Scrollable Drawer 메뉴 노출",
         used: "활용영역 : 메인페이지 / 드로어메뉴 / 설정 / 필터UI",
-        url: "https://framer.cloud/hwQUM",
+        url: "https://framer.cloud/sSOlv",
         date: "2018-4-20",
         tag: ["#ScrollComponent", "#FlowComponent"],
         source:
@@ -207,8 +207,8 @@ const itemList = {
         id: 29,
         type: 7,
         title: "Floating Action Button",
-        jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_29.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/framer_07.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f29.gif",
         desc:
           "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
@@ -224,7 +224,7 @@ const itemList = {
         type: 7,
         title: "Notification UI",
         jpgImg: "https://prodigk.github.io/ic_data/images/photo.png",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/photo_s.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/framer_13.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f28.gif",
         desc:
           "5초 간격으로 하단 카드 노티 애니메이션 / 스크롤하여 카드 내용 확인후에는 애니메이션 정지",

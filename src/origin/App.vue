@@ -10,16 +10,16 @@
           </div>
           <ul class="list-tab">
             <li>
-              <router-link to="/home" class="link-tab" data-position="59" data-width="51" data-page="/home">Home</router-link>
+              <router-link to="/home" class="link-tab" data-position="60" data-width="50" data-page="/home">Home</router-link>
             </li>
             <li>
-              <router-link to="/update" class="link-tab" data-position="213" data-width="59" data-page="/update">update</router-link>
+              <router-link to="/update" class="link-tab" data-position="138" data-width="60" data-page="/update">Update</router-link>
             </li>
             <li>
-              <router-link to="/docs" class="link-tab" data-position="295" data-width="41" data-page="/docs">Docs</router-link>
+              <router-link to="/docs" class="link-tab" data-position="218" data-width="42" data-page="/docs">Docs</router-link>
             </li>
             <li>
-              <router-link to="/about" class="link-tab" data-position="136" data-width="50" data-page="/about">about</router-link>
+              <router-link to="/about" class="link-tab" data-position="291" data-width="54" data-page="/about">About</router-link>
             </li>
           </ul>
         </div>
