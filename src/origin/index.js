@@ -76,7 +76,7 @@ sideBarFunc();
 window.addEventListener('resize',sideBarFunc);
 function sideBarFunc(){
   let documentWidth = window.innerWidth;
-  if(documentWidth < 1200 ) {
+  if(documentWidth < 1280 ) {
     sideBar.classList.add('side__close')
   } else {
     sideBar.classList.remove( 'side__close' );

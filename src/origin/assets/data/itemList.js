@@ -38,7 +38,7 @@ const itemList = {
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_40.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_40.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f40.gif",
-        desc: "모듈을 활용하여 스크롤 중에 탭영역이 상단에 고정",
+        desc: "Custom Module(StickyHeaders)을 활용하여 스크롤시 특정 높이값에 반응하여 탭영역이 상단에 고정",
         used: "활용영역 : 메인 페이지",
         url: "https://framer.cloud/dYWKT",
         date: "2018-4-20",
@@ -201,7 +201,7 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#ScrollComponent", "#FlowComponent", "#Defaults"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/OGVVQX/?height=800&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="framer_30" src="//codepen.io/ugen/embed/OGVVQX/?height=800&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       }, 
       {
         id: 29,
@@ -217,7 +217,7 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#PageComponent", "#Defaults", "#else if"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="framer_29" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 28,
@@ -233,7 +233,7 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#ScrollComponent", "#Defaults", "#ignoreEvnets", "#stateSwitch", "#Utils.delay", "#draggable", "#states", "#overdragScale"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="framer_28" src="//codepen.io/ugen/embed/jRqKMj/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 27,
@@ -249,7 +249,7 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#ScrollComponent","#scrollVertical", "#Defaults", "#draggable", "#states", "#overdragScale"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/zXqaNK/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 26,
@@ -265,103 +265,103 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#ScrollComponent", "#scrollVertical", "#draggable", "#overdragScale"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/vMGrxR/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 25,
         type: 7,
-        title: "Floating Action Button",
+        title: "Generate Contents List II",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_25.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_25.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f25.gif",
         desc:
-          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
-        used: "활용영역 : FAB / 탭버튼",
-        url: "https://framer.cloud/dXxgL",
+          "화면 진입시 순차적인 2x2 컨텐츠 생성을 애니메이션으로 구현",
+        used: "활용영역 : 컨텐츠 피드 리스트 / 메인화면 컨텐츠 구성",
+        url: "https://framer.cloud/CeiIs",
         date: "2018-4-20",
-        tag: ["#PageComponent", "#Defaults", "#else if"],
+        tag: ["#ScrollComponent", "#for in", "#children", "#animate"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/XQdYzN/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 24,
         type: 7,
-        title: "Floating Action Button",
+        title: "Generate Contents List I",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_24.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_24.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f24.gif",
         desc:
-          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
-        used: "활용영역 : FAB / 탭버튼",
-        url: "https://framer.cloud/dXxgL",
+          "화면 진입시 리스트를 배열로 생성하고 시차적용된 애니메이션으로 구현",
+        used: "활용영역 : 컨텐츠 피드 리스트 / 연락처",
+        url: "https://framer.cloud/RpTfr",
         date: "2018-4-20",
-        tag: ["#PageComponent", "#Defaults", "#else if"],
+        tag: ["#ScrollComponent", "#Array", "#for in", "#Utils.delay"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/BEKVJb/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 23,
         type: 7,
-        title: "Floating Action Button",
+        title: "Mic Effect Animation",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_23.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_23.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f23.gif",
         desc:
-          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
-        used: "활용영역 : FAB / 탭버튼",
-        url: "https://framer.cloud/dXxgL",
+          "마이크 버튼 탭을 활용한 랜덤한 사이즈의 원형파동 애니메이션 시작/정지 컨트롤",
+        used: "활용영역 : 음성입력 피드백, 레코딩 피드백",
+        url: "https://framer.cloud/TAivs",
         date: "2018-4-20",
-        tag: ["#PageComponent", "#Defaults", "#else if"],
+        tag: ["#Utils.randomNumber", "#animate", "#curve"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/OGNEQq/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 22,
-        type: 7,
-        title: "Floating Action Button",
+        type: 5,
+        title: "Feed Contents UI Flow",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_22.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_22.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f22.gif",
         desc:
-          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
-        used: "활용영역 : FAB / 탭버튼",
-        url: "https://framer.cloud/dXxgL",
+          "FlowComponent를 활용하여 간단하게 화면간 이동 구현 / Utils.modulate를 이용해 상단 텍스트, 이미지에 스크롤 Y값과 연동되는 애니메이션 적용",
+        used: "활용영역 : 메인페이지 / 상세페이지 / 메뉴이동 / 스크롤 인터랙션 ",
+        url: "https://framer.cloud/nRUYq",
         date: "2018-4-20",
-        tag: ["#PageComponent", "#Defaults", "#else if"],
+        tag: ["#FlowComponent", "#scroll", "#states", "#Utils.modulate", "#scrollToPoint"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/ROaJMY/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 21,
         type: 7,
-        title: "Floating Action Button",
+        title: "Equalizer Animation",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_21.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_21.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f21.gif",
         desc:
-          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
-        used: "활용영역 : FAB / 탭버튼",
-        url: "https://framer.cloud/dXxgL",
+          "버튼 탭을 활용하여 이퀄라이저 애니메이션 시작/정지 컨트롤",
+        used: "활용영역 : 이퀄라이저 / 음성재생",
+        url: "https://framer.cloud/TGDys",
         date: "2018-4-20",
-        tag: ["#PageComponent", "#Defaults", "#else if"],
+        tag: ["#Utils.randomNumber", "#animate", "#for in", "#if else"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/GLZGdw/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 20,
-        type: 7,
-        title: "Floating Action Button",
+        type: 2,
+        title: "Parallax Scroll",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_20.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_20.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f20.gif",
         desc:
-          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
-        used: "활용영역 : FAB / 탭버튼",
-        url: "https://framer.cloud/dXxgL",
+          "스크롤에 따른 상, 하단 네비게이션바연동 이미지 패럴랙스 애니메이션 (modulate 사용) / Statusbar 영역 터치시 특정 위치로 스크롤 화면 이동",
+        used: "활용영역 : 메인페이지 / Bottom Navigation",
+        url: "https://framer.cloud/OdbKG",
         date: "2018-4-20",
-        tag: ["#PageComponent", "#Defaults", "#else if"],
+        tag: ["#ScrollComponent", "#Defaults", "#states", "#for in", "#Utils.round", "#if esle", "#animate"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       }
     ],
     framerX: [],

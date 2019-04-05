@@ -130,7 +130,7 @@ $tool-icon :
     position:relative;
     width:1050px;
     margin:0 auto;
-    padding-left:100px;
+    padding-left:140px;
     box-sizing:border-box;
   }
   .text-cate {
@@ -200,7 +200,7 @@ $tool-icon :
     .link-example {
       margin-top:37px;
       text-align:center;
-      @include font-style-item(inline-block,10px,14px,$gray45,normal);
+      @include font-style-item(inline-block,12px,14px,$gray45,normal);
       display:block;
       &:hover {
         text-decoration: underline;
