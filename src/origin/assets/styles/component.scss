@@ -79,23 +79,23 @@ $tool-icon :
 .link-tag {
   display:block;
   padding:0 12px;
-  font-size:10px;
+  font-size:11px;
   line-height:22px;
   color:$gray30;
   border:1px solid $gray30;
   box-sizing:border-box;
   border-radius:22px;
   transition:all .15s;
+  &:active,&.on-tag {
+    color:$secondary;
+    border-color:$secondary;
+    text-decoration: none;
+  }
   &:hover {
     background:$secondary;
     border-color:$secondary;
     color:#fff;
     transition:none;
-  }
-  &:active,&.on-tag {
-    color:$secondary;
-    border-color:$secondary;
-    text-decoration: none;
   }
 }
 
@@ -159,11 +159,11 @@ $tool-icon :
   }
   .text-desc {
     word-break: keep-all;
-    @include font-style-item(block,11px,14px,$gray80,normal);
+    @include font-style-item(block,12px,14px,$gray80,normal);
     margin-top:7px;
   }
   .text-type {
-    @include font-style-item(block,11px,14px,$gray40,normal);
+    @include font-style-item(block,12px,14px,$gray40,normal);
     margin-top:10px;
   }
   .detail-cont {

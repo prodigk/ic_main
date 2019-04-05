@@ -205,11 +205,155 @@ const itemList = {
       }, 
       {
         id: 29,
-        type: 7,
+        type: 8,
         title: "Floating Action Button",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_29.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/framer_07.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f29.gif",
+        desc:
+          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
+        used: "활용영역 : FAB / 탭버튼",
+        url: "https://framer.cloud/dXxgL",
+        date: "2018-4-20",
+        tag: ["#PageComponent", "#Defaults", "#else if"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 28,
+        type: 8,
+        title: "Material Backdrop UI Menu Type II",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_28.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_28.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f28.gif",
+        desc:
+          "Backdrop UI 인터랙션 / 메뉴 버튼 탭시 해당영역이 확장되면서 메뉴 노출 / 필터 버튼 탭시 필터 메뉴로 변경",
+        used: "활용영역 : Backdrop UI / 컨텐츠 피드 리스트",
+        url: "https://framer.cloud/FabAW",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent", "#Defaults", "#ignoreEvnets", "#stateSwitch", "#Utils.delay", "#draggable", "#states", "#overdragScale"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 27,
+        type: 8,
+        title: "Material Backdrop UI Menu Type I",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_27.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_27.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f27.gif",
+        desc:
+          "Backdrop UI 인터랙션 / 메뉴 버튼 탭시 해당영역이 확장되면서 메뉴 노출 / 컨텐츠 가로 스크롤",
+        used: "활용영역 : Backdrop UI / 컨텐츠 피드 리스트",
+        url: "https://framer.cloud/jcfSK",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent","#scrollVertical", "#Defaults", "#draggable", "#states", "#overdragScale"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 26,
+        type: 2,
+        title: "Backdrop UI H-Scroll",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_26.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_26.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f26.gif",
+        desc:
+          "매터리얼 2.0 UI중 Backdrop UI형태에서 피드 컨텐츠의 가로스크롤",
+        used: "활용영역 : 컨텐츠 피드 리스트 / 가로 스크롤",
+        url: "https://framer.cloud/UMeoI",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent", "#scrollVertical", "#draggable", "#overdragScale"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 25,
+        type: 7,
+        title: "Floating Action Button",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_25.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_25.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f25.gif",
+        desc:
+          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
+        used: "활용영역 : FAB / 탭버튼",
+        url: "https://framer.cloud/dXxgL",
+        date: "2018-4-20",
+        tag: ["#PageComponent", "#Defaults", "#else if"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 24,
+        type: 7,
+        title: "Floating Action Button",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_24.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_24.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f24.gif",
+        desc:
+          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
+        used: "활용영역 : FAB / 탭버튼",
+        url: "https://framer.cloud/dXxgL",
+        date: "2018-4-20",
+        tag: ["#PageComponent", "#Defaults", "#else if"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 23,
+        type: 7,
+        title: "Floating Action Button",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_23.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_23.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f23.gif",
+        desc:
+          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
+        used: "활용영역 : FAB / 탭버튼",
+        url: "https://framer.cloud/dXxgL",
+        date: "2018-4-20",
+        tag: ["#PageComponent", "#Defaults", "#else if"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 22,
+        type: 7,
+        title: "Floating Action Button",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_22.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_22.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f22.gif",
+        desc:
+          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
+        used: "활용영역 : FAB / 탭버튼",
+        url: "https://framer.cloud/dXxgL",
+        date: "2018-4-20",
+        tag: ["#PageComponent", "#Defaults", "#else if"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 21,
+        type: 7,
+        title: "Floating Action Button",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_21.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_21.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f21.gif",
+        desc:
+          "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
+        used: "활용영역 : FAB / 탭버튼",
+        url: "https://framer.cloud/dXxgL",
+        date: "2018-4-20",
+        tag: ["#PageComponent", "#Defaults", "#else if"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/pBJJVp/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 20,
+        type: 7,
+        title: "Floating Action Button",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_20.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_20.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f20.gif",
         desc:
           "스크롤 시 FAB버튼 축소 / 최상단으로 스크롤시 FAB버튼 확장 / 스테이터스바 탭시 최상단으로 스크롤 이동",
         used: "활용영역 : FAB / 탭버튼",

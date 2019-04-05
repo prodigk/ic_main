@@ -123,7 +123,7 @@ html,body {
 }
 
 //사이드바
-$nav-height: 240;
+$nav-height: 260;
 .section-sidebar {
   overflow-x:hidden;
   overflow-y:auto;
@@ -133,7 +133,7 @@ $nav-height: 240;
   bottom:0;
   z-index:99999;
   width:$nav-height + px;
-  padding:75px 0 80px 40px;
+  padding:75px 20px 80px 40px;
   box-sizing:border-box;
   box-shadow:5px 0px 30px 3px rgba(0,0,0,0.03);
   transition:width .3s, padding-left .1s;
@@ -440,6 +440,7 @@ $nav-height: 240;
 // 목록 리스트
 .view-item {
   padding-top:25px;
+  padding-left:50px;
 }
 .title-sub {
   margin-bottom:40px;
@@ -543,7 +544,7 @@ $nav-height: 240;
   }
   .text-desc {
     word-break: keep-all;
-    @include font-style-item(block,11px,14px,$gray80,normal);
+    @include font-style-item(block,11px,18px,$gray80,normal);
     padding-bottom:26px;
   }
   .text-type {
@@ -581,17 +582,18 @@ $view-size__height:197px;
     margin:0 30px 20px 0;
     &:before {
       position:absolute;
-      top:-10px;
-      bottom:-10px;
-      left:-10px;
-      right:-10px;
+      top:-8px;
+      bottom:-8px;
+      left:-8px;
+      right:-8px;
       z-index:-1;
       opacity:0;
-      border-radius:8px;
+      border-radius:2px;
       pointer-events:none;
-      background:rgba(0,20,61,.04);
+      //background:rgba(0,20,61,.04);
+      box-shadow:5px 0px 50px 3px rgba(0,0,0,0.1);
       content:'';
-      transform: scale(.96);
+      transform: scale(.90);
       transition: background .1s;
     }
     &:hover {
@@ -760,6 +762,8 @@ $view-size__height:197px;
     .text-about {
       margin-top:24px;
       @include text-body;
+      line-height: 18px;
+      font-size: 12px;
     }
   }
 }
