@@ -677,6 +677,7 @@ $view-size__height:197px;
   }
   .desc-sub {
     @include head-lv5;
+    line-height: 20px;
     margin:24px 0;
   }
 }
@@ -756,13 +757,13 @@ $view-size__height:197px;
       display:block;
       margin-top:16px;
       @include head-lv5;
-      font-size:11px;
+      font-size:12px;
       text-align:center
     }
     .text-about {
       margin-top:24px;
       @include text-body;
-      line-height: 18px;
+      line-height: 20px;
       font-size: 12px;
     }
   }
@@ -782,6 +783,7 @@ $view-size__height:197px;
   .text-docs {
     margin-bottom:40px;
     @include text-body;
+    line-height: 18px;
     > a {
       color:$secondary;
       font-weight:bold;
