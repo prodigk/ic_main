@@ -362,6 +362,54 @@ const itemList = {
         tag: ["#ScrollComponent", "#Defaults", "#states", "#for in", "#Utils.round", "#if esle", "#animate"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 19,
+        type: 8,
+        title: "Bottom Sheet UI + Main Scroll",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_19.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_19.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f19.gif",
+        desc:
+          "메인화면 스크롤 패턴과 하단 바에 bottomSheet 모듈을 적용하여 스와이프하여 끌어올리기 가능",
+        used: "활용영역 : 컨텐츠 피드 리스트 / 메인페이지 / Bottom Sheet / Category List",
+        url: "https://framer.cloud/zetyq",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent", "#Module", "#states", "#sendToBack"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 18,
+        type: 9,
+        title: "Tab Bar Navigation",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_18.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_18.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f18.gif",
+        desc:
+          "탭바 모듈을 활용하여 상단 메뉴바 네비게이션 구성. 탭선택에 따라 하단 화면의 스크롤이동",
+        used: "활용영역 : 서브탭메뉴 / 페이징 / UI Flow",
+        url: "https://framer.cloud/VKDBi",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent", "#Module", "for in", "#sendToBack"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 17,
+        type: 4,
+        title: "Page Swipe",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_17.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_17.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f17.gif",
+        desc:
+          "메인 배너 영역 페이징",
+        used: "활용영역 : 컨텐츠 피드 리스트 / 페이징 / 메인 페이지",
+        url: "https://framer.cloud/qPiZn",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent", "#Module", "for in", "#sendToBack"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       }
     ],
     framerX: [],
