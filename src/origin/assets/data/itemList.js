@@ -403,11 +403,43 @@ const itemList = {
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_17.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f17.gif",
         desc:
-          "메인 배너 영역 페이징",
+          "메인 화면 컨텐츠 구성. 배너 영역 페이징과 검색창 고정 및 페이지 스크롤",
         used: "활용영역 : 컨텐츠 피드 리스트 / 페이징 / 메인 페이지",
         url: "https://framer.cloud/qPiZn",
         date: "2018-4-20",
         tag: ["#ScrollComponent", "#Module", "for in", "#sendToBack"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 16,
+        type: 2,
+        title: "Parallax Scroll",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_16.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_16.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f16.gif",
+        desc:
+          "패럴랙스 스크롤 패턴, 택스트와 배경을 분리하여 시간차를 두고 움직임. 상단바 탭시 최상단으로 이동",
+        used: "활용영역 : 컨텐츠 피드 리스트 / 메인 페이지",
+        url: "https://framer.cloud/bDrNm",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent", "#scrollToPoint", "#Array", "#for in", "#Utils.round", "#parallax"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 15,
+        type: 2,
+        title: "Music Player (Flow)",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_15.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_15.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f15.gif",
+        desc:
+          "음악 리스트에서 뮤직플레이어 화면으로 이동. 뮤직 플레이어의 컨트롤 기능 포함(슬라이더, 이전, 다음 등)",
+        used: "활용영역 : 뮤직서비스, 플레이어",
+        url: "https://framer.cloud/BnZeL",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent","#FlowComponent", "#module", "#Array", "#draggable", "#Utils.round", "#states", "#for in", "#if else", "#change:"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       }
