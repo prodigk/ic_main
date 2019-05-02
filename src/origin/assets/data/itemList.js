@@ -430,7 +430,7 @@ const itemList = {
       {
         id: 15,
         type: 2,
-        title: "Music Player (Flow)",
+        title: "Music Player II (Flow)",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_15.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_15.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f15.gif",
@@ -440,6 +440,22 @@ const itemList = {
         url: "https://framer.cloud/BnZeL",
         date: "2018-4-20",
         tag: ["#ScrollComponent","#FlowComponent", "#module", "#Array", "#draggable", "#Utils.round", "#states", "#for in", "#if else", "#change:"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 14,
+        type: 2,
+        title: "Music Player I",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_14.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_14.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f14.gif",
+        desc:
+          "진입 시 음악 재생 이전곡/다음곡 가능 뮤직 리스트 탭시 해당 노래 재생",
+        used: "활용영역 : 뮤직서비스, 플레이어",
+        url: "https://framer.cloud/rgdGR",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent", "#module", "#Array", "#draggable", "#Utils.round", "#states", "#for in", "#if else", "#idx:"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       }
