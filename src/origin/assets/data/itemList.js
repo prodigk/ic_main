@@ -377,7 +377,7 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#ScrollComponent", "#Module", "#states", "#sendToBack"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/wZLRKx/?height=265&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 18,
@@ -393,7 +393,7 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#ScrollComponent", "#Module", "for in", "#sendToBack"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/QPXzyz/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 17,
@@ -409,7 +409,7 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#ScrollComponent", "#Module", "for in", "#sendToBack"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/BEgvKV/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 16,
@@ -425,11 +425,11 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#ScrollComponent", "#scrollToPoint", "#Array", "#for in", "#Utils.round", "#parallax"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/ROzERj/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 15,
-        type: 2,
+        type: 10,
         title: "Music Player II (Flow)",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_15.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_15.jpg",
@@ -441,11 +441,11 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#ScrollComponent","#FlowComponent", "#module", "#Array", "#draggable", "#Utils.round", "#states", "#for in", "#if else", "#change:"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/VNJqKW/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
       {
         id: 14,
-        type: 2,
+        type: 10,
         title: "Music Player I",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_14.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_14.jpg",
@@ -457,7 +457,55 @@ const itemList = {
         date: "2018-4-20",
         tag: ["#ScrollComponent", "#module", "#Array", "#draggable", "#Utils.round", "#states", "#for in", "#if else", "#idx:"],
         source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/axNKjy/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/NmZeRE/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 13,
+        type: 2,
+        title: "Contents Scrolling",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_13.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_13.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f13.gif",
+        desc:
+          "스크롤시 스크롤 Y값에 따른 배경 이미지 애니메이션",
+        used: "활용영역 : 상세화면",
+        url: "https://framer.cloud/vvVaY",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent", "#Utils.modulate"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/GLbPNQ/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 12,
+        type: 7,
+        title: "Sprite Animation",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_12.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_12.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f12.gif",
+        desc:
+          "스프라이트 이미지를 활용한 로딩 애니메이션, 로딩 후에 다음 페이지로 이동",
+        used: "활용영역 : Splash, Loading 화면",
+        url: "https://framer.cloud/Sgkso",
+        date: "2018-4-20",
+        tag: ["#FlowComponent", "#states", "#Utils.delay", "#stateCycle"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/wZLRgY/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 11,
+        type: 8,
+        title: "FAB (Floating Action Button)",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_11.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_11.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f11.gif",
+        desc:
+          "플로팅 액션 버튼(FAB) 탭시 메뉴 확장",
+        used: "활용영역 : FAB, 메인화면, 네비게이션",
+        url: "https://framer.cloud/lyFIZ",
+        date: "2018-4-20",
+        tag: ["#Defaults", "#for in", "states", "stateCycle"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/wZLRJY/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       }
     ],
     framerX: [],
