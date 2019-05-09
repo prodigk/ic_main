@@ -560,7 +560,7 @@ const itemList = {
         type: 5,
         title: "Screen Flow",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_07.jpg",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_07.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/framer_05.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f07.gif",
         desc:
           "화면 영역 탭시 다음 스크린으로 이동. 뒤로가기 버튼 탭시 이전페이지로 이동",
@@ -576,7 +576,7 @@ const itemList = {
         type: 2,
         title: "Basic Scroll",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_06.jpg",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_06.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/framer_02.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f06.gif",
         desc:
           "Appbar+기본 화면 스크린 구현",
@@ -592,7 +592,7 @@ const itemList = {
         type: 4,
         title: "Basic Page",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_05.jpg",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_05.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/framer_04.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f05.gif",
         desc:
           "페이지 스와이프와 탭메뉴 항목 터치로 컨텐츠 영역 이동",
@@ -656,7 +656,7 @@ const itemList = {
         type: 1,
         title: "Bookmark Toggle Interaction",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_01.jpg",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_01.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/framer_01.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f01.gif",
         desc:
           "북마크 탭시 피드백 애니메이션 적용. 토글버튼 형태의 컨텐츠 저장 인터랙션",
