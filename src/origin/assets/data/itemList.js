@@ -391,7 +391,7 @@ const itemList = {
         used: "활용영역 : 서브탭메뉴 / 페이징 / UI Flow",
         url: "https://framer.cloud/VKDBi",
         date: "2018-4-20",
-        tag: ["#ScrollComponent", "#Module", "for in", "#sendToBack"],
+        tag: ["#ScrollComponent", "#Module", "#for in", "#sendToBack"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/QPXzyz/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
@@ -407,7 +407,7 @@ const itemList = {
         used: "활용영역 : 컨텐츠 피드 리스트 / 페이징 / 메인 페이지",
         url: "https://framer.cloud/qPiZn",
         date: "2018-4-20",
-        tag: ["#ScrollComponent", "#Module", "for in", "#sendToBack"],
+        tag: ["#ScrollComponent", "#Module", "#for in", "#sendToBack"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/BEgvKV/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
@@ -455,7 +455,7 @@ const itemList = {
         used: "활용영역 : 뮤직서비스, 플레이어",
         url: "https://framer.cloud/rgdGR",
         date: "2018-4-20",
-        tag: ["#ScrollComponent", "#module", "#Array", "#draggable", "#Utils.round", "#states", "#for in", "#if else", "#idx:"],
+        tag: ["#ScrollComponent", "#module", "#Array", "#draggable", "#Utils.round", "#states", "#for in", "#if else", "#idx"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/NmZeRE/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
@@ -503,9 +503,169 @@ const itemList = {
         used: "활용영역 : FAB, 메인화면, 네비게이션",
         url: "https://framer.cloud/lyFIZ",
         date: "2018-4-20",
-        tag: ["#Defaults", "#for in", "states", "stateCycle"],
+        tag: ["#Defaults", "#for in", "#states", "#stateCycle"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/wZLRJY/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 10,
+        type: 6,
+        title: "Dynamic Banner",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_10.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_10.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f10.gif",
+        desc:
+          "스크롤시 배너 이미지 요소가 화면 밖에서 안으로 이동",
+        used: "활용영역 : 메인화면, 배너",
+        url: "https://framer.cloud/Isvzm",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent", "#Utils.modulate"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/XQLogX/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 9,
+        type: 6,
+        title: "Swipe Banner",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_09.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_09.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f09.gif",
+        desc:
+          "이미지가 벗겨지는 트랜지션 적용. 페이지에 따라 하단 바 길이 애니메이션",
+        used: "활용영역 : 메인화면, 배너, 페이징",
+        url: "https://framer.cloud/eDKyR",
+        date: "2018-4-20",
+        tag: ["#PageComponent", "#for in", "#change:", "#Utils.modulate", "#Array"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/GLbPEd/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 8,
+        type: 6,
+        title: "Objects Banner",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_08.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_08.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f08.gif",
+        desc: 
+          "이미지와 배경을 분리하여 트랜지션 적용",
+        used: "활용영역 : FAB, 메인화면, 네비게이션",
+        url: "//codepen.io/ugen/embed/MRMZvW",
+        date: "2018-4-20",
+        tag: ["#PageComponent", "#for in", "#Array", "#Utils.modulate", "#states"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/wZLRJY/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 7,
+        type: 5,
+        title: "Screen Flow",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_07.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_07.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f07.gif",
+        desc:
+          "화면 영역 탭시 다음 스크린으로 이동. 뒤로가기 버튼 탭시 이전페이지로 이동",
+        used: "활용영역 : 화면단위 Flow 확인",
+        url: "https://framer.cloud/wkZiY",
+        date: "2018-4-20",
+        tag: ["#FlowComponent"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/PgrXKB/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 6,
+        type: 2,
+        title: "Basic Scroll",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_06.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_06.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f06.gif",
+        desc:
+          "Appbar+기본 화면 스크린 구현",
+        used: "활용영역 : 메인화면, 서브화면, 컨텐츠 피드 리스트",
+        url: "https://framer.cloud/oDSkN",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/NmZeao/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 5,
+        type: 4,
+        title: "Basic Page",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_05.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_05.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f05.gif",
+        desc:
+          "페이지 스와이프와 탭메뉴 항목 터치로 컨텐츠 영역 이동",
+        used: "활용영역 : 메인화면, 서브화면, 탭메뉴",
+        url: "https://framer.cloud/GsTEt",
+        date: "2018-4-20",
+        tag: ["#PageComponent","#for in", "#change:", "#states"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/LvKMOL/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 4,
+        type: 1,
+        title: "Like/Heart Interaction",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_04.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_04.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f04.gif",
+        desc:
+          "하트 탭시 피드백 애니메이션 적용",
+        used: "활용영역 : 좋아요, 하트 버튼 터치피드백",
+        url: "https://framer.cloud/wocaT",
+        date: "2018-4-20",
+        tag: ["#states", "#switchInstant", "if else"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/rbEopx/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 3,
+        type: 3,
+        title: "Random Image Splash",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_03.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_03.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f03.gif",
+        desc:
+          "스플래시 배경 렌덤으로 노출. 5초간 배경 애니메이션 진행후, 홈화면 진입",
+        used: "활용영역 : 스플래시 화면",
+        url: "https://framer.cloud/dVLZa",
+        date: "2018-4-20",
+        tag: ["#Array", "#Utils.randomChoice", "Utils.delay"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/WWqLdW/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 2,
+        type: 2,
+        title: "Contents Scroll",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_02.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_02.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f02.gif",
+        desc:
+          "세로 스크롤 페이지안에서 가로 스크롤 가능",
+        used: "활용영역 : 메인화면 스크롤",
+        url: "https://framer.cloud/oGUNk",
+        date: "2018-4-20",
+        tag: ["#ScrollComponent"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/VNJqQr/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
+        id: 1,
+        type: 1,
+        title: "Bookmark Toggle Interaction",
+        jpgImg: "https://prodigk.github.io/ic_data/images/fs_01.jpg",
+        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_01.jpg",
+        gifImg: "https://prodigk.github.io/ic_data/images/f01.gif",
+        desc:
+          "북마크 탭시 피드백 애니메이션 적용. 토글버튼 형태의 컨텐츠 저장 인터랙션",
+        used: "활용영역 : 북마크 저장, 찜하기",
+        url: "https://framer.cloud/MLuOd",
+        date: "2018-4-20",
+        tag: ["#states", "#switchInstant", "#if else"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/WWqLMW/?height=265&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       }
     ],
     framerX: [],
@@ -607,7 +767,7 @@ const itemList = {
         used: "활용영역 : 컨텐츠 피드 리스트 / 메인 페이지",
         url: "https://framer.cloud/XOpyf",
         date: "2018-11-26",
-        tag: ["#ScrollComponent", "#Array", "#states", "#onMove", "Utils.delay", "#idx"],
+        tag: ["#ScrollComponent", "#Array", "#states", "#onMove", "#Utils.delay", "#idx"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="yes" title="yEKvxZ" src="//codepen.io/ugen/embed/dLPxbV/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
