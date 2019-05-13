@@ -756,85 +756,9 @@ const itemList = {
       
     ],
     sketch: [
-      {
-        id: 38,
-        type: 10,
-        title: "App Store Style - Card View Scroll",
-        jpgImg: "https://prodigk.github.io/ic_data/images/fs_38.jpg",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_38.jpg",
-        gifImg: "https://prodigk.github.io/ic_data/images/f38.gif",
-        desc: "카드 탭시 하위 댑스가 현재 위치에서 확장 후에 스크롤 기능 추가",
-        used: "활용영역 : 컨텐츠 피드 리스트 / 메인 페이지",
-        url: "https://framer.cloud/XOpyf",
-        date: "2018-11-26",
-        tag: ["#ScrollComponent", "#Array", "#states", "#onMove", "#Utils.delay", "#idx"],
-        source:
-          '<iframe height="800" style="width: 100%;" scrolling="yes" title="yEKvxZ" src="//codepen.io/ugen/embed/dLPxbV/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
-      },
-      {
-        id: 37,
-        type: 8,
-        title: "Card View Transition2",
-        jpgImg: "https://prodigk.github.io/ic_data/images/fs_37.jpg",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_37.jpg",
-        gifImg: "https://prodigk.github.io/ic_data/images/f37.gif",
-        desc: "개별카드 선택후 페이지로 확장되고 스크롤 가능",
-        used: "활용영역 : 컨텐츠 피드 리스트 / 메인 페이지 / 상세페이지",
-        url: "https://framer.cloud/HIApg",
-        date: "2018-11-26",
-        tag: ["#ScrollComponent", "#Defualts", "#Array", "#idx"],
-        source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="yEKvxZ" src="//codepen.io/ugen/embed/YMPmXe/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
-      },
-      {
-        id: 36,
-        type: 8,
-        title: "Card View Transition1",
-        jpgImg: "https://prodigk.github.io/ic_data/images/fs_38a.jpg",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/framer_02.jpg",
-        gifImg: "https://prodigk.github.io/ic_data/images/f36.gif",
-        desc: "여러개의 카드리스트중 개별 카드선택후 페이지로 확장",
-        used: "활용영역 : 컨텐츠 피드 리스트 / 메인 페이지",
-        url: "https://framer.cloud/reGRi",
-        date: "2018-11-26",
-        tag: ["#ScrollComponent", "#Defualts", "#Array", "#idx"],
-        source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="yEKvxZ" src="//codepen.io/ugen/embed/axOzRE/?height=800&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
-      },
+      
     ],
     html: [
-      {
-        id: 32,
-        type: 7,
-        title: "Player Album Swipe",
-        jpgImg: "https://prodigk.github.io/ic_data/images/fs_33.jpg",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_33.jpg",
-        gifImg: "https://prodigk.github.io/ic_data/images/f32.gif",
-        desc:
-          "페이지 변환시 백그라운드 이미지 트렌지션 / 앨범 이미지 탭시 페이징",
-        used: "활용영역 : 뮤직 플레이어 / 이미지 갤러리 / 배너 페이징",
-        url: "https://framer.cloud/qbPOm",
-        date: "2018-4-20",
-        tag: ["#PageComponent", "#Array", "#change:"],
-        source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/oOXXZV/?height=800&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
-      }, 
-      {
-        id: 31,
-        type: 7,
-        title: "Background Color Transition",
-        jpgImg: "https://prodigk.github.io/ic_data/images/fs_32.jpg",
-        jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_32.jpg",
-        gifImg: "https://prodigk.github.io/ic_data/images/f31.gif",
-        desc:
-          "페이지 변환시 백그라운드 컬러 트렌지션",
-        used: "활용영역 : 메인비주얼 배너 / 이미지 갤러리 / 페이징",
-        url: "https://framer.cloud/QVcLQ",
-        date: "2018-4-20",
-        tag: ["#PageComponent", "#Array", "#change:", "#AnimationEnd"],
-        source:
-          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/bJddoB/?height=800&theme-id=dark&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
-      }, 
       
     ]
   }
