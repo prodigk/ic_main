@@ -23,11 +23,11 @@ const docs = {
     },{
       index:2,
       title : 'Sketch Interactions',
-      text: 'Wireframe 단계에서 사용자 흐름을 간략하게 확인하고 기본 UI사용성, UX논리 검증 프로세스로 활용하여 프로젝트 참가자들의 이해를 도울 수 있습니다. GUI디자인 프로세스에서도 실제 프로덕트와 유사한환경을 만들어, UI요소 트랜지션을 제외하고 빠른 사용성 테스트가 가능합니다.<h3>사용툴 : <a href="https://principleformac.com/" target="_blank">Principle</a></h3>'
+      text: 'Wireframe 단계에서 사용자 흐름을 간략하게 확인하고 기본 UI사용성, UX논리 검증 프로세스로 활용하여 프로젝트 참가자들의 이해를 도울 수 있습니다. GUI디자인 프로세스에서도 실제 프로덕트와 유사한환경을 만들어, UI요소 트랜지션을 제외하고 빠른 사용성 테스트가 가능합니다.<h3>사용툴 : <h3>- 사용툴 : <a href="https://www.sketch.com/" target="_blank">Sketch Link</a></h3>'
     },{
       index:1,
       title : 'Principle Interactions',
-      text: '기본 그래픽 요소의 속성값과 타임라인 기반의 프로토타이핑 포맷입니다. 트랜지션과 애니메이션에 대한 가속도, 탄성, 구동시간 등 세부 속성값의 조정으로 정밀하게 인터랙션을 확인해 볼 수 있습니다. 화면간의 복잡성이 높아질수록 대응이 어려워지는 단점이 있지만, 스크롤 혹은 스와이핑 값에 따른 화면인터랙션은 유려한 형태로 검증이 가능합니다.<h3>- 사용툴 : <a href="https://www.sketch.com/" target="_blank">Sketch Link</a></h3>'
+      text: '기본 그래픽 요소의 속성값과 타임라인 기반의 프로토타이핑 포맷입니다. 트랜지션과 애니메이션에 대한 가속도, 탄성, 구동시간 등 세부 속성값의 조정으로 정밀하게 인터랙션을 확인해 볼 수 있습니다. 화면간의 복잡성이 높아질수록 대응이 어려워지는 단점이 있지만, 스크롤 혹은 스와이핑 값에 따른 화면인터랙션은 유려한 형태로 검증이 가능합니다.<h3>사용툴 : <a href="https://principleformac.com/" target="_blank">Principle</a></h3>'
     }
   ]
 }
