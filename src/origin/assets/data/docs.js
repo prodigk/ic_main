@@ -23,7 +23,7 @@ const docs = {
     },{
       index:2,
       title : 'Sketch Interactions',
-      text: 'Wireframe 단계에서 사용자 흐름을 간략하게 확인하고 기본 UI사용성, UX논리 검증 프로세스로 활용하여 프로젝트 참가자들의 이해를 도울 수 있습니다. GUI디자인 프로세스에서도 실제 프로덕트와 유사한환경을 만들어, UI요소 트랜지션을 제외하고 빠른 사용성 테스트가 가능합니다.<h3>사용툴 : <h3>- 사용툴 : <a href="https://www.sketch.com/" target="_blank">Sketch Link</a></h3>'
+      text: 'Wireframe 단계에서 사용자 흐름을 간략하게 확인하고 기본 UI사용성, UX논리 검증 프로세스로 활용하여 프로젝트 참가자들의 이해를 도울 수 있습니다. GUI디자인 프로세스에서도 실제 프로덕트와 유사한환경을 만들어, UI요소 트랜지션을 제외하고 빠른 사용성 테스트가 가능합니다.<h3>사용툴 : <a href="https://www.sketch.com/" target="_blank">Sketch Link</a></h3>'
     },{
       index:1,
       title : 'Principle Interactions',
