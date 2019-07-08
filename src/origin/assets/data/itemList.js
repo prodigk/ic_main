@@ -34,7 +34,7 @@ const itemList = {
       {
         id: 40,
         type: 10,
-        title: "Sticky Header",
+        title: "Sticky Header 테스트",
         jpgImg: "https://prodigk.github.io/ic_data/images/fs_40.jpg",
         jpgImg_s: "https://prodigk.github.io/ic_data/images/ft_40.jpg",
         gifImg: "https://prodigk.github.io/ic_data/images/f40.gif",
@@ -42,7 +42,7 @@ const itemList = {
         used: "활용영역 : 메인 페이지",
         url: "https://framer.cloud/dYWKT",
         date: "2018-4-20",
-        tag: ["#StickyHeader", "#ScrollComponent"],
+        tag: ["#StickyHeader", "#ScrollComponent", "kong"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/ZZYdQw/?height=265&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
       },
