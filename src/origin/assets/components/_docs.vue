@@ -2,7 +2,7 @@
   <div id="pageDocs" class="article-content">
     <div class="section-update">
       <h3 class="title-sub">Documentation</h3>
-      <p class="desc-sub">페이지 스크롤시 배경 이미지의 사이즈 애니메이션을 통한 연결성있는 페이지 스크롤시 배경 이미지의 사이즈 애니메이션을 통한 연결성있는 페이지 스크롤시 배경 이미지의 사이즈 애니메이션을 통한 연결성있는 화면을 테스트 할 수 있음</p>
+      <p class="desc-sub">Interaction Catalog를 구성하고 있는 개별 프로토타입 형식에 대한 간략한 설명입니다. 추후 Framer Classic의 Coffeescript Document로 확장예정입니다.</p>
       <ul class="list-docs">
         <li v-for="(docs, index) in docsItem" :key="index">
           <strong class="title-docs">{{ docs.title }}</strong>

@@ -2,7 +2,7 @@
   <div id="pageUpdate" class="article-content">
     <div class="section-update">
       <h3 class="title-sub">Update</h3>
-      <p class="desc-sub">페이지 스크롤시 배경 이미지의 사이즈 애니메이션을 통한 연결성있는 페이지 스크롤시 배경 이미지의 사이즈 애니메이션을 통한 연결성있는 페이지 스크롤시 배경 이미지의 사이즈 애니메이션을 통한 연결성있는 화면을 테스트 할 수 있음</p>
+      <p class="desc-sub">Interactive Caltalog에 추가되는 개별 프로토타입 파일의 업데이트 히스토리 내역입니다. 프로토타입 항목의 종류, 일자, 간략한 내용을 포함하고 있습니다.</p>
       <ul class="list-update">
         <li v-for="(update, index) in updateItem" :key="index">
           <div class="head-list">

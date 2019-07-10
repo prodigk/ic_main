@@ -23,7 +23,7 @@ $gray20 : #eee;
 }
 
 @mixin head-lv1 {
-  @include font-style(32px,36px,700,$ink,0)
+  @include font-style(32px,36px,700,$ink,-0.3px)
 }
 @mixin head-lv2 {
   @include font-style(24px,28px,700,$ink,-0.17px)
