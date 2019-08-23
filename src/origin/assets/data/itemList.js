@@ -32,6 +32,21 @@ const itemList = {
   } */
     framer: [
       {
+        id: 41,
+        type: 10,
+        title: "Sticky Header",
+        jpgImg: "http://ux.skplanet.com/ic/images/fs_40.jpg",
+        jpgImg_s: "http://ux.skplanet.com/ic/images/ft_40.jpg",
+        gifImg: "http://ux.skplanet.com/ic/images/f40.gif",
+        desc: "Custom Module(StickyHeaders)을 활용하여 스크롤시 특정 높이값에 반응하여 탭영역이 상단에 고정",
+        used: "활용영역 : 메인 페이지",
+        url: "https://framer.cloud/dYWKT",
+        date: "2018-4-20",
+        tag: ["#StickyHeader", "#ScrollComponent", "#Utils.modulate", "#FlowComponent"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/ZZYdQw/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },
+      {
         id: 40,
         type: 10,
         title: "Sticky Header",
