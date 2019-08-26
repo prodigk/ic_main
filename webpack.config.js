@@ -23,7 +23,8 @@ const outputPaths = {
   images: path.resolve(rootPaths.output, 'assets/images')
 };
 // cdn paths
-const cdnPath = 'https://prodigk.github.io/ic_main/docs/';
+// const cdnPath = 'https://prodigk.github.io/ic_main/docs/';
+const cdnPath = 'http://ux.skplanet.com/interaction/';
 
 // entry htmlList(htmlWebpackPlugin) - 루트 폴더 내 모든 *.html을 가져오도록 설정
 let entryHtmlFiles = (() => {
