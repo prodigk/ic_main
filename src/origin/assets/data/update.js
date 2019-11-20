@@ -10,17 +10,35 @@ const update = {
     }
 */
     {
+      index : 13,
+      type : 'framer',
+      text : 'Equalizer animation II / FAB와 페이지 전환으로 사용자 녹음파일 보기와 듣기 Flow',
+      date : '2019-09-05',
+      newIcon : true
+    },{
+      index : 12,
+      type : 'framer',
+      text : '여러타입의 FAB(Floating Action Button)을 통한 리스트 컨트롤 / Sticky Header를 이용한 리스트 상태 변경 Flow',
+      date : '2019-09-03',
+      newIcon : true
+    },{
+      index : 11,
+      type : 'framer',
+      text : 'Bottom Navigation / 서비스 구조를 살펴볼 수 있는 하단 네비게이션을 이용한 페이지 전환 인터랙션',
+      date : '2019-08-27',
+      newIcon : true
+    },{
       index : 10,
       type : 'framer',
       text : 'Sticky Header / 스크롤 상단변경 및 App Store 레퍼런스 인터랙션',
       date : '2019-05-10',
-      newIcon : true
+      newIcon : false
     },{
       index : 9,
       type : 'framer',
       text : 'Player Album / Scrollable Drawer 등의 Material backdrop UI',
       date : '2019-05-09',
-      newIcon : true
+      newIcon : false
     },{
       index : 8,
       type : 'framer',

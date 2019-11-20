@@ -41,7 +41,7 @@ const itemList = {
         desc: "재생 버튼을 탭하면 플레이어가 실행 플레이어에서 접기 버튼을 눌러 FAB 형태의 미니 플레이어로 전환",
         used: "활용영역 : FAB, 재생리스트 플레이어간 전환",
         url: "https://framer.cloud/ArHoR",
-        date: "2018-4-20",
+        date: "2019-8-27",
         tag: ["#Default", "#for in", "#Utils.randomNumber", "#FlowComponent", "#ignoreEvents", "#animate"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/jONyGvW/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
@@ -56,7 +56,7 @@ const itemList = {
         desc: "스크롤시 이름과 상단 버튼은 고정되고 탭은 자연스럽게 스크롤 되다가 상단에 고정. 하단 메모를 탭하여 메모 리스트로 이동 또는 메모하기를 눌러 새로운 메모 페이지로 전환",
         used: "활용영역 : 연락처, 메모화면, 헤더네비게이션",
         url: "https://framer.cloud/RRRhM",
-        date: "2018-4-20",
+        date: "2019-8-27",
         tag: ["#StickyHeader", "#ScrollComponent", "#Utils.modulate", "#Extras.Hints", "Default.Animation", "#PageComponent", "#animate", "#ignoreEvents"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/oNvBGyy/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
@@ -71,7 +71,7 @@ const itemList = {
         desc: "스크롤 시 검색바가 올라가고 BIZ연락처 보기와 편집 할 수 있는 영역과 인덱스 영역이 고정. 하단 네비게이션을 통해 최상단으로 이동",
         used: "활용영역 : 연락처, 검색바 배치, FAB, 하단 알림영역",
         url: "https://framer.cloud/Uqbmu",
-        date: "2018-4-20",
+        date: "2019-8-27",
         tag: ["#StickyHeader", "#ScrollComponent", "#Utils.delay", "#Default.Animation", "#animate", "#ignoreEvents"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/abopLKV/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
@@ -86,7 +86,7 @@ const itemList = {
         desc: "스위치 토글로 업무 연락처 on/off 애니메이션 되고 탭 영역 상단에 고정. 탭 이용하여 하단 페이지 전환. 메모하기 버튼을 눌러 페이지 이동",
         used: "활용영역 : 연락처, 모드변환, 헤더/탭메뉴 고정화면",
         url: "https://framer.cloud/uDPcs",
-        date: "2018-4-20",
+        date: "2019-8-27",
         tag: ["#StickyHeader", "#ScrollComponent", "#Utils.modulate", "#Default.Animation", "#FlowComponent", "#Array", "#animate", "#change:","#stateCycle"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/bGbgoKb/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
@@ -101,7 +101,7 @@ const itemList = {
         desc: "FAB를 탭하면 바 알림 형태로 애니메이션 되고 알림 숫자가 있는 경우 탭을 하면 상세 화면으로 전환",
         used: "활용영역 : 메인 페이지, FAB, 알림창",
         url: "https://framer.cloud/UQYSW",
-        date: "2018-4-20",
+        date: "2019-8-27",
         tag: ["#states", "#Default.Animation", "#IgnoreEvents", "#animate"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/vYBgejV/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
@@ -116,7 +116,7 @@ const itemList = {
         desc: "진입시 FAB등장 애니메이션. FAB버튼 액션을 통해 리스트 필터링 인터랙션",
         used: "활용영역 : 연락처, FAB, 상태알림 토스트",
         url: "https://framer.cloud/XFCyT",
-        date: "2018-4-20",
+        date: "2019-8-27",
         tag: ["#Default.Animation", "#ScrollComponent", "#Array", "#switchInstant", "#scrollToPoint", "#animate", "#Utils.delay", "#ignoreEvents"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/MWgJEEe/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
@@ -131,7 +131,7 @@ const itemList = {
         desc: "하단 네비게이션을 통해 연락처, 최근통화, 다이얼, 설정 페이지로 이동. 특정화면(다이얼)을 제외한 다른화면은 T ARS FAB 배치",
         used: "활용영역 : 네비게이션, 하단메뉴, FAB",
         url: "https://framer.cloud/tQYrA",
-        date: "2018-4-20",
+        date: "2019-8-27",
         tag: ["#Default.Animation", "#bringToFront", "#Array"],
         source:
           '<iframe height="800" style="width: 100%;" scrolling="no" title="zbbEXL" src="//codepen.io/ugen/embed/mdbRBWG/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
