@@ -32,6 +32,20 @@ const itemList = {
   } */
     framer: [
       {
+        id: 48,
+        type: 2,
+        title: "Video Autoplay",
+        jpgImg: "http://ux.skplanet.com/ic/images/fs_47.jpg",
+        jpgImg_s: "http://ux.skplanet.com/ic/images/ft_47.jpg",
+        gifImg: "http://ux.skplanet.com/ic/images/f47.gif",
+        desc: "최조 진입 시 설정중인 영상 재생",
+        used: "활용영역 : 동영상 자동 재생, 메인페이지 스크롤",
+        url: "https://framer.cloud/gsHkO",
+        date: "2020-12-09",
+        tag: ["#VideoLayer", "#ScrollComponent", "#for in"],
+        source:
+          '<iframe height="800" style="width: 100%;" scrolling="no" title="qBadxVa" src="//codepen.io/ugen/embed/qBadxVa/?height=800&theme-id=0&default-tab=js" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>'
+      },{
         id: 47,
         type: 5,
         title: "Equalizer animation II",
