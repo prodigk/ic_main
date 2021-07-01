@@ -591,16 +591,16 @@ $view-size__height:197px;
       border-radius:2px;
       pointer-events:none;
       //background:rgba(0,20,61,.04);
-      box-shadow:5px 0px 50px 3px rgba(0,0,0,0.1);
-      content:'';
-      transform: scale(.90);
-      transition: background .1s;
+      // box-shadow:5px 0px 50px 3px rgba(0,0,0,0.1);
+      // content:'';
+      // transform: scale(.90);
+      // transition: background .1s;
     }
-    &:hover {
-      &:before {
-        animation: hoverAnimation .25s cubic-bezier(.31,1,.34,1) forwards;
-      }
-    }
+    // &:hover {
+    //   &:before {
+    //     animation: hoverAnimation .25s cubic-bezier(.31,1,.34,1) forwards;
+    //   }
+    // }
 
     .link-thumb {
       display:block;
@@ -619,6 +619,11 @@ $view-size__height:197px;
         background-size:cover;
         background-position:50%;
         background-repeat:no-repeat;
+        &:hover {
+          box-shadow:4px 0px 32px 3px rgba(0,0,0,0.05);
+          
+          
+        }
       }
     }
     .box-detail,.text-type,.wrap-tag{
